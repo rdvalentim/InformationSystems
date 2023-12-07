@@ -1,0 +1,13 @@
+a:link{
+    font-size: large;
+    color: black;
+}
+
+a:visited{
+    font-size: x-small;
+    color: red;
+}
+
+a:hover{
+    font-size: larger;
+}

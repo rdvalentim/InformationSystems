@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}
+
+div{
+    padding: 5px;
+    font-size: 18px;
+    width: 500px;
+    height: 500px;
+    background-color: grey;
+    text-align: center;
+}
